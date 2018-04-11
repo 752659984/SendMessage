@@ -1,0 +1,7 @@
+E:\项目\VS2017 Projects\SendMessage\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+E:\项目\VS2017 Projects\SendMessage\Command\bin\Debug\Command.dll
+E:\项目\VS2017 Projects\SendMessage\Command\bin\Debug\Command.pdb
+E:\项目\VS2017 Projects\SendMessage\Command\bin\Debug\Newtonsoft.Json.dll
+E:\项目\VS2017 Projects\SendMessage\Command\bin\Debug\Newtonsoft.Json.xml
+E:\项目\VS2017 Projects\SendMessage\Command\obj\Debug\Command.dll
+E:\项目\VS2017 Projects\SendMessage\Command\obj\Debug\Command.pdb

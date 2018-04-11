@@ -1,0 +1,14 @@
+E:\项目\VS2017 Projects\SendMessage\SendMessage\bin\Debug\SendMessage.exe.config
+E:\项目\VS2017 Projects\SendMessage\SendMessage\bin\Debug\SendMessage.exe
+E:\项目\VS2017 Projects\SendMessage\SendMessage\bin\Debug\SendMessage.pdb
+E:\项目\VS2017 Projects\SendMessage\SendMessage\obj\Debug\SendMessage.csprojResolveAssemblyReference.cache
+E:\项目\VS2017 Projects\SendMessage\SendMessage\obj\Debug\SendMessage.Properties.Resources.resources
+E:\项目\VS2017 Projects\SendMessage\SendMessage\obj\Debug\SendMessage.csproj.GenerateResource.Cache
+E:\项目\VS2017 Projects\SendMessage\SendMessage\obj\Debug\SendMessage.csproj.CoreCompileInputs.cache
+E:\项目\VS2017 Projects\SendMessage\SendMessage\obj\Debug\SendMessage.exe
+E:\项目\VS2017 Projects\SendMessage\SendMessage\obj\Debug\SendMessage.pdb
+E:\项目\VS2017 Projects\SendMessage\SendMessage\bin\Debug\Command.dll
+E:\项目\VS2017 Projects\SendMessage\SendMessage\bin\Debug\Newtonsoft.Json.dll
+E:\项目\VS2017 Projects\SendMessage\SendMessage\bin\Debug\Command.pdb
+E:\项目\VS2017 Projects\SendMessage\SendMessage\bin\Debug\Newtonsoft.Json.xml
+E:\项目\VS2017 Projects\SendMessage\SendMessage\obj\Debug\SendMessage.FrmClient.resources
